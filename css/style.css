@@ -65,6 +65,11 @@ a:hover {
   height: 24px;
 }
 
+.cat{
+  width: 120px;
+  height: 120px;
+}
+
 .header-center {
   display: grid;
   align-content: center;
